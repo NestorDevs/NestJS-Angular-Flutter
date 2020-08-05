@@ -6,7 +6,7 @@ Stack Nestjs Angular Flutter (Backend, Frontend Web, FLutter Movil)
 #### NestJs - BACKEND
 - NestJs (NodeJs)
 - TypeOrm
-- Mysql2
+- Postgress
 ---
 #### Angular - FRONTEND
 - Angular 9
